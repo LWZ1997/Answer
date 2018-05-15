@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_error_question_item.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\my_error_question_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back1.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\back1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_dialog.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\my_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_error_question.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\my_error_question.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_test_error.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_test_error.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_test_wrong.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_test_wrong.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_test_analyze.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_test_analyze.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vote_submit_finish.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\vote_submit_finish.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_dialog.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_darkblue_btn_bg.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\darkblue_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_error_question_detail.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\my_error_question_detail.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_gray.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\btn_bg_gray.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_answer_choose_bg.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\answer_choose_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_up_subject.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_up_subject.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_test_normal.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_test_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_tatal_index.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_tatal_index.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_next_subject.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_next_subject.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_qx1.9.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\btn_qx1.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_qx2.9.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\btn_qx2.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_test_explaindetail.9.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_test_explaindetail.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_time.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_time.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_practice_test_right.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\ic_practice_test_right.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_practice_test.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_practice_test.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_vote_submit_viewpager_item.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\vote_submit_viewpager_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back2.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-hdpi\\back2.png"
+    }
+]
